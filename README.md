@@ -69,6 +69,7 @@ O [Smart Git](https://www.syntevo.com/smartgit/) não só auxilia usuários nova
 Atualmente existem várias formas de escrevermos comandos git. Desde interfaces gráficas disponibilizadas nas próprias IDE's até os tradicionais _CLI_ (_command line interface_)
 
 Um exemplo deles é o git bash:
+
 ![Git bash terminal](./assets/git-bash.png)
 
 Neste, escrevemos os comandos, levando em consideração a sua correta sintaxe.
