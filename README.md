@@ -6,24 +6,23 @@
 <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' alt="Badge laranja com a logo do git" />
 </div>
 
-## Sumário
+## 📕 Sumário
 
--   [🤔 O Git](#o-git)
--   [🛠️ Principais ferramentas](#principais-ferramentas)
+-   [O Git](#o-git)
+-   [Principais ferramentas](#principais-ferramentas)
     -   [Github](#github)
     -   [GitKraken](#gikraken)
     -   [BitBucket](#bitbucket)
     -   [GitLab](#gitlab)
     -   [SmartGit](#smartgit)
     -   [Terminais](#terminais)
--   [⚙️ Funcionamento](#funcionamento)
--   [⚙️ Branches](#branches)
+-   [Funcionamento](#funcionamento)
+-   [Branches](#branches)
     -   [Nomenclatura](#nomenclatura)
     -   [Hierarquia](#hierarquia)
     -   [Convenções](#convencoes)
-    -   [Conflitos](#conflitos)
 -   [PR e Code Review](#pr-e-code-review)
--   [Principais Comandos](#principais-comandos)
+-   [Principais Comandos](#comandos)
 
 </br>
 
@@ -225,5 +224,8 @@ Bibliografia e recursos gráficos
 -   https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow
 -   https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar#:~:text=O%20Git%20Flow%20trabalha%20com,merge%20com%20as%20branches%20principais
 -   https://dev.to/nopenoshishi/understanding-git-through-images-4an1
+-   https://www.atlassian.com/git/tutorials/undoing-changes/git-reset#:~:text=To%20review%2C%20git%20reset%20is,correspond%20to%20the%20three%20trees.
 
 ---
+
+made with 💙 by Rafael Ramos
